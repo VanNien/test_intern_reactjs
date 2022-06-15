@@ -1,0 +1,38 @@
+.ant-tabs {
+    margin: 30px;
+    
+}
+.ant-tabs-tab {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.61;
+    letter-spacing: normal;
+    text-align: left;
+    color: #070707;
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #070707;
+    text-shadow: 0 0 0.25px currentcolor;
+}
+.item_detail{
+    width: 100%;
+    padding: 0%;
+    display: flex;
+    justify-content:flex-start
+}
+.icon_feeling{
+    float: right;
+    margin: auto;
+    font-size: 12px;
+}
+.icon_avatar{
+   float: left;
+   margin: auto;
+   font-size: 12px;
+}
+.card_item .ant-card-body{
+    padding: 0%;
+}

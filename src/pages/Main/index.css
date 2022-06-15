@@ -1,0 +1,10 @@
+.main{
+    font-family: Montserrat;
+}
+.body{
+    margin-bottom: 250px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+}

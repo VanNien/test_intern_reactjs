@@ -1,0 +1,36 @@
+.card_menu {
+   color: white;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   background-color: #070707;
+}
+.ant-card-bordered {
+    border-right: 3px solid #ffffff;
+    border-left: 3px solid #ffffff;
+}
+.Experimental {
+    width: 134px;
+    height: 20px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #fff;
+  }
+
+.absolute_menu_left {
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    z-index: 2;   
+  }
+.absolute_menu_right {
+    position: absolute;
+    top: 15%;
+    right: 2%;
+    z-index: 2;   
+  } 
